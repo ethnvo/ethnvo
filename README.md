@@ -21,4 +21,4 @@ A React Native rebuild our LA Hacks submission- a spontaneous event planning app
 
 ## 📂 Check Out My Work!
 
-Feel free to explore the projects above — I'm always building, learning, and improving.
+Feel free to explore the projects above - I'm always building, learning, and improving.
