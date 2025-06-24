@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey! I'm Ethan Vo, a rising 3rd year at UC Irvine. 
+
 
 <!--
 **ethnvo/ethnvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
