@@ -1,4 +1,4 @@
-## Hey! I'm Ethan Vo, a rising 3rd year at UC Irvine. 
+# Hey! I'm Ethan Vo, a rising 3rd year at UC Irvine. 
 
 I'm currently working on: 
 1) Sleeve's Ace
@@ -6,7 +6,7 @@ I'm currently working on:
 3) Resume
 4) Plus1
 
-Please check out my work!
+# Please check out my work!
 <!--
 **ethnvo/ethnvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
