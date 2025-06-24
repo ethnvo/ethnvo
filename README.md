@@ -6,7 +6,7 @@ I'm a rising 3rd year at **UC Irvine**, double majoring in **Software Engineerin
 
 ## 🔥 Currently Working On
 
-### [🃏 Sleeve's Ace](https://github.com/ethnvo/sleeves-ace)
+### [🃏 Sleeve's Ace](https://github.com/ethnvo/sleevesace)
 An AI-powered poker assistant that overlays your desktop games and analyzes every round — like Chess.com, but for poker.
 
 ### 💈 FadeAway
