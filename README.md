@@ -12,7 +12,7 @@ A mobile barber booking app, connecting students and student barbers, inspired b
 ### 📄 Resume (private repo)
 An AI-powered Resume improvement tool with head-to-head comparisons with real, offer-winning resumes. 
 
-### 📱 Plus1 (React Native) (private repo)
+### 📱 Plus1 [React Native] (private repo)
 A React Native rebuild our LA Hacks submission- a spontaneous event planning app built with **Flutter** and **Firebase**, helping students discover and join events on the fly.
 
 ### [🃏 Sleeve's Ace (On Hiatus)](https://github.com/ethnvo/sleevesace)
