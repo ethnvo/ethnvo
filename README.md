@@ -21,4 +21,4 @@ An AI-powered poker assistant that overlays your desktop games and analyzes ever
 
 ## 📂 Check Out My Work!
 
-Feel free to explore the projects above - I'm always building, learning, and improving.
+Feel free to explore any of my projects below - I'm always building, learning, and improving.
