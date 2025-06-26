@@ -16,7 +16,8 @@ An AI-powered Resume improvement tool with head-to-head comparisons with real, o
 A React Native rebuild our LA Hacks submission- a spontaneous event planning app built with **Flutter** and **Firebase**, helping students discover and join events on the fly.
 
 ### [🃏 Sleeve's Ace (On Hiatus)](https://github.com/ethnvo/sleevesace)
-An AI-powered poker assistant that overlays your desktop games and analyzes every round - like Chess.com, but for poker.
+An AI-powered poker assistant that overlays your desktop games and analyzes every round - like Chess.com, but for poker.  
+
 ---
 
 ## 📂 Check Out My Work!
