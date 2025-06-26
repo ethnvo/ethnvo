@@ -6,17 +6,17 @@ I'm a rising 3rd year at **UC Irvine**, double majoring in **Software Engineerin
 
 ## 🔥 Currently Working On
 
-### [🃏 Sleeve's Ace](https://github.com/ethnvo/sleevesace)
-An AI-powered poker assistant that overlays your desktop games and analyzes every round - like Chess.com, but for poker.
-
 ### 💈 FadeAway
 A mobile barber booking app, connecting students and student barbers, inspired by DoorDash.
 
 ### 📄 Resume
 An AI-powered Resume improvement tool with head-to-head comparisons with real, offer-winning resumes. 
+
 ### 📱 Plus1 (React Native)
 A React Native rebuild our LA Hacks submission- a spontaneous event planning app built with **Flutter** and **Firebase**, helping students discover and join events on the fly.
 
+### [🃏 Sleeve's Ace (On Hiatus)](https://github.com/ethnvo/sleevesace)
+An AI-powered poker assistant that overlays your desktop games and analyzes every round - like Chess.com, but for poker.
 ---
 
 ## 📂 Check Out My Work!
