@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Ethan Vo
 
-I'm a 3rd year at **UC Irvine**, double majoring in **Software Engineering**.
+I'm a 3rd year at **UC Irvine**, majoring in **Software Engineering**.
 
 ---
 
